@@ -1,4 +1,4 @@
-package services;
+package ru.netology.services;
 
 public class CountRestMonthService {
     public int calculate(int income, int expenses, int threshold) {
